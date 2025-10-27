@@ -13,7 +13,7 @@ public class Ventana extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(Ventana.class.getResource("/fes/aragon/encriptadorydesencriptador/esqueleto.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
-        stage.setTitle("Desencriptador de mensajes!");
+        stage.setTitle("Desencriptador de mensajes");
         stage.setScene(scene);
         stage.show();
     }
