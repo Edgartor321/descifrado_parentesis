@@ -18,7 +18,7 @@
             <Font size="14.0" />
          </font>
       </TextField>
-      <TextField fx:id="txt_salida" alignment="TOP_CENTER" editable="false" layoutX="55.0" layoutY="388.0" prefHeight="134.0" prefWidth="692.0" promptText="Menaje desencriptado" style="-fx-border-color: cyan;">
+      <TextField fx:id="txt_salida" alignment="TOP_CENTER" editable="false" layoutX="55.0" layoutY="388.0" prefHeight="134.0" prefWidth="692.0" promptText="Mensaje desencriptado" style="-fx-border-color: cyan;">
          <font>
             <Font size="14.0" />
          </font>
