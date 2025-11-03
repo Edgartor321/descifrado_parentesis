@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44fd26b8-6b78-4b4d-9e2a-a27beea35c51" name="Changes" comment="Cambio-titulo-de-ventana" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Edgartor321&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Edgartor321/descifrado_parentesis.git&quot;,
+    &quot;accountId&quot;: &quot;c28fbe6c-3eb1-4fe6-ac5b-c9df0ae5e831&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34X2vFO17eowS64SQ1saScUPEsW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/samzhand/Documents/2026-1/EncriptadoryDesencriptador/jar/Herramientas.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.Jupyter Settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fes.aragon.encriptadorydesencriptador.modelo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fes.aragon.encriptadorydesencriptador.Launcher" />
+      <module name="EncriptadoryDesencriptador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fes.aragon.encriptadorydesencriptador.controlador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44fd26b8-6b78-4b4d-9e2a-a27beea35c51" name="Changes" comment="" />
+      <created>1761345827273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761345827273</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Terminado">
+      <option name="closed" value="true" />
+      <created>1761348357913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761348357913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Terminado-con-ajustes-de-estructura-de-interfaz">
+      <option name="closed" value="true" />
+      <created>1761363709473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761363709474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se-arregla-texto-de-la-ventana">
+      <option name="closed" value="true" />
+      <created>1761579341642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761579341642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cambio-titulo-de-ventana">
+      <option name="closed" value="true" />
+      <created>1761580540291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761580540291</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminado" />
+    <MESSAGE value="Terminado-con-ajustes-de-estructura-de-interfaz" />
+    <MESSAGE value="Se-arregla-texto-de-la-ventana" />
+    <MESSAGE value="Cambio-titulo-de-ventana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio-titulo-de-ventana" />
+  </component>
+</project>
