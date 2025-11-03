@@ -6,9 +6,9 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: gray;" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fes.aragon.encriptadorydesencriptador.controlador.VentanaController">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #f7d794;" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fes.aragon.encriptadorydesencriptador.controlador.VentanaController">
    <children>
-      <Text fill="#5c04b8" layoutX="132.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="🔒Desencriptador de mensajes🔑">
+      <Text fill="#b33939" layoutX="132.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="🔒Desencriptador de mensajes🔑">
          <font>
             <Font name="Serif Italic" size="36.0" />
          </font>
@@ -23,7 +23,7 @@
             <Font size="14.0" />
          </font>
       </TextField>
-      <Button fx:id="btn_enviar" layoutX="327.0" layoutY="290.0" mnemonicParsing="false" onAction="#enviar" prefHeight="63.0" prefWidth="148.0" style="-fx-background-color: green; -fx-border-color: black;" text="🔑" textFill="WHITE">
+      <Button fx:id="btn_enviar" layoutX="279.0" layoutY="288.0" mnemonicParsing="false" onAction="#enviar" prefHeight="63.0" prefWidth="245.0" style="-fx-background-color: #44bd32; -fx-border-color: #05c46b; -fx-border-radius: 20px; -fx-border-width: 4; -fx-background-radius: 20px;" text="🔑Desencriptar" textFill="WHITE">
          <font>
             <Font name="Padauk Bold" size="26.0" />
          </font>

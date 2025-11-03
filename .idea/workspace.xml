@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8851073-0b78-4d52-9651-7679bfcaa5ec" name="Changes" comment="checa este si es xd">
+    <list default="true" id="f8851073-0b78-4d52-9651-7679bfcaa5ec" name="Changes" comment="Campo-de-resultado-corregido-texxto-de-ejemplo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" afterDir="false" />
@@ -23,12 +23,12 @@
     &quot;assignee&quot;: &quot;labubu69&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Edgartor321/descifrado_parentesis.git",
-    "accountId": "c28fbe6c-3eb1-4fe6-ac5b-c9df0ae5e831"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Edgartor321/descifrado_parentesis.git&quot;,
+    &quot;accountId&quot;: &quot;c28fbe6c-3eb1-4fe6-ac5b-c9df0ae5e831&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -37,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Launcher.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/dxrek_/Documentos/Herramientas/Herramientas.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dxrek_/Documentos/Herramientas/Herramientas.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fes.aragon.encriptadorydesencriptador.Launcher" />
@@ -95,12 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762134552028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Campo-de-resultado-corregido-texxto-de-ejemplo">
+      <option name="closed" value="true" />
+      <created>1762186204036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762186204037</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="checalo" />
     <MESSAGE value="checa este si es xd" />
-    <option name="LAST_COMMIT_MESSAGE" value="checa este si es xd" />
+    <MESSAGE value="Campo-de-resultado-corregido-texxto-de-ejemplo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Campo-de-resultado-corregido-texxto-de-ejemplo" />
   </component>
 </project>
