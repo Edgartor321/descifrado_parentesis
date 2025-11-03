@@ -6,31 +6,26 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fes.aragon.encriptadorydesencriptador.controlador.VentanaController">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: gray;" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fes.aragon.encriptadorydesencriptador.controlador.VentanaController">
    <children>
-      <Text layoutX="166.0" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Desencriptador de mensajes">
+      <Text fill="#5c04b8" layoutX="132.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="🔒Desencriptador de mensajes🔑">
          <font>
-            <Font size="36.0" />
+            <Font name="Serif Italic" size="36.0" />
          </font>
       </Text>
-      <TextField fx:id="txt_entrada" alignment="TOP_CENTER" layoutX="54.0" layoutY="121.0" prefHeight="134.0" prefWidth="692.0" promptText="Ingrese el texto a desencriptar">
+      <TextField fx:id="txt_entrada" alignment="TOP_CENTER" layoutX="54.0" layoutY="121.0" prefHeight="134.0" prefWidth="692.0" promptText="Ingrese el texto a desencriptar" style="-fx-border-color: blue;">
          <font>
             <Font size="14.0" />
          </font>
       </TextField>
-      <TextField fx:id="txt_salida" alignment="TOP_CENTER" editable="false" layoutX="54.0" layoutY="421.0" prefHeight="134.0" prefWidth="692.0">
+      <TextField fx:id="txt_salida" alignment="TOP_CENTER" editable="false" layoutX="55.0" layoutY="388.0" prefHeight="134.0" prefWidth="692.0" promptText="Menaje desencriptado" style="-fx-border-color: cyan;">
          <font>
             <Font size="14.0" />
          </font>
       </TextField>
-      <Text layoutX="258.0" layoutY="398.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mensaje desencriptado">
+      <Button fx:id="btn_enviar" layoutX="327.0" layoutY="290.0" mnemonicParsing="false" onAction="#enviar" prefHeight="63.0" prefWidth="148.0" style="-fx-background-color: green; -fx-border-color: black;" text="🔑" textFill="WHITE">
          <font>
-            <Font size="26.0" />
-         </font>
-      </Text>
-      <Button fx:id="btn_enviar" layoutX="334.0" layoutY="270.0" mnemonicParsing="false" onAction="#enviar" prefHeight="61.0" prefWidth="133.0" text="Enviar">
-         <font>
-            <Font size="26.0" />
+            <Font name="Padauk Bold" size="26.0" />
          </font>
       </Button>
    </children>
