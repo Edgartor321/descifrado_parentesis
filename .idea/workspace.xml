@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8851073-0b78-4d52-9651-7679bfcaa5ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Herramientas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fes/aragon/encriptadorydesencriptador/esqueleto.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="f8851073-0b78-4d52-9651-7679bfcaa5ec" name="Changes" comment="checa este si es xd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +54,28 @@
       <option name="presentableId" value="Default" />
       <updated>1761837151359</updated>
     </task>
+    <task id="LOCAL-00001" summary="checalo">
+      <option name="closed" value="true" />
+      <created>1762134496046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762134496047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="checa este si es xd">
+      <option name="closed" value="true" />
+      <created>1762134552028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762134552028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checalo" />
+    <MESSAGE value="checa este si es xd" />
+    <option name="LAST_COMMIT_MESSAGE" value="checa este si es xd" />
   </component>
 </project>
